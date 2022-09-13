@@ -1,0 +1,87 @@
+.hospital-feature-details{
+    text-align: left;
+}
+.card-heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hospital-feature .card h5{
+    font-size: 14px;
+}
+.hospital-feature .card p{
+    font-size: 14px;
+}
+.hospital-feature .outer_circle {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    display: inline-block;
+    background: rgb(100,45,255);
+    background: linear-gradient(180deg, rgba(100,45,255,0.9140698515734419) 29%, rgba(255,255,255,1) 69%);
+    margin-left: 7rem;
+}
+.hospital-feature .inner_circle {
+    position: absolute;
+    top: 1.2rem;
+    left: 1.3rem;
+    width: 160px;
+    height: 160px;
+    background: #ffff;
+    border-radius: 50%;
+}
+.hospital-feature .inner_circle .inner-img{
+    position: absolute;
+    top: -3.6rem;
+    right: -5rem;
+    width: 350px;
+    height: 350px;
+}
+.hospital-feature .inner_circle .inner-img img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 111;
+}
+.hospital-feature-wrapper{
+    margin-left: 2rem;
+}
+.hospital-feature .pose-flor{
+    position: absolute;
+    bottom: -5rem;
+    left: 7rem;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #C2CFEF;
+    transform: scale(2, 0.5);
+    z-index: -111;
+}
+.hospital-feature .experiance-images{
+    position: relative;
+    margin-bottom: 11rem;
+}
+.hospital-feature .experiance_icons{
+    width: 46px;
+    height: 46px;
+}
+.hospital-feature .experiance_icons img{
+    width: 100%;
+    height: 100%;
+}
+.hospital-feature .blood-pressure{
+    position: absolute;
+    top: -1.5rem;
+    right: 2.3rem;
+}
+.hospital-feature .First-Aid_icon{
+    position: absolute;
+    top: 2rem;
+    left: 7rem;
+}
+.hospital-feature .Plastrer_icon{
+    position: absolute;
+    bottom: -0.4rem;
+    left: 9rem;
+}

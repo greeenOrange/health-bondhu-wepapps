@@ -1,0 +1,49 @@
+.service-section{
+    
+}
+.service-section p{
+    font-weight: 500;
+}
+.service-section h3{
+    font-Size: 32px;
+    line-height: 38.73px
+}
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(55, 55, 55, 0.08);
+    border-radius: 5px;
+    text-align: left;
+    padding: 1rem .6rem;
+    box-shadow: 0px 2px 4px rgba(55, 55, 55, 0.08);
+}
+.card span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card span svg{
+    font-size: 1.4rem;
+}
+.card #health-icon1 svg{
+color:#642DFF;
+}
+.card #health-icon2 svg{
+color:#2D42FF
+}
+.card #health-icon3 svg{
+color:#2D42FF
+}
+.card #health-icon4 svg{
+color:#FF532D;
+
+}
+
+.card a{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #575757;
+}
+.card a:hover{
+    color: #2D89FF;
+}

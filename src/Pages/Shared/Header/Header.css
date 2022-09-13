@@ -1,0 +1,57 @@
+.navbar-nav .nav-link.active{
+    color: #2D89FF;
+}
+.navbar-brand{
+    color:#2D89FF;
+}
+.navbar-brand span{
+    color:#642DFF;
+}
+.nav-menu button{
+    background: #2D89FF;
+    color: #fff;
+    padding: 15px, 20px, 15px, 20px;
+    width: 170px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 8rem;
+}
+.nav-menu .animate__bounce{
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: bounce;
+    animation-duration: 2s;
+}
+.nav-menu button:hover{
+    background: #fff;
+    color: #2D89FF;
+    transition: all ease-out 300ms;
+    border: #2D89FF 1px solid;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 600px) {
+.nav-menu button{
+    margin-left: 0rem;
+}
+}
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+.nav-menu button{
+    margin-left: 2rem;
+}
+}
+@media only screen and (min-width: 768px) and (min-width: 992px) {
+.nav-menu button{
+    margin-left: 4rem;
+}
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+.nav-menu button{
+    margin-left: 6rem;
+}
+}
+@media only screen and (min-width: 1200px) {
+.nav-menu button{
+    margin-left: 3rem;
+}
+}

@@ -1,5 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+.primary{
+  color: #2D89FF
+}
+.secondary{
+  color: #642DFF;
+}
+.paragraph{
+  color: #575757
+}
+.bg-color{
+  color: #f7f7f7;
+}
+.text-bold{
+  color: #1E1E1E;
+}
+.layer{
+  color: #90d4ed;
+}
+.layer2{
+  color: #eb90ed;
+}
 .App {
   text-align: center;
+  font-family: 'Inter', sans-serif;
 }
 
 .App-logo {
