@@ -92,7 +92,7 @@
     width: 211px;
     max-width: auto;
     height: 58px;
-    background: red;
+    background: #fff;
     border-radius: 5px;
     display: flex;
     align-items: center;
@@ -102,7 +102,7 @@
 .idea_icon span{
     font-size: 12px;
     line-height: 14.52px;
-    color: #fff;
+    color: #222222;
 }
 .idea_icon img{
     width: 30px;

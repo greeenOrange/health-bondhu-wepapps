@@ -19,10 +19,12 @@ const Home = () => {
             <Banner />
             <Services />
         </div>
+        <div className="hero-content">
         <Experiance />
         <HospitalFeature />
         <FAQ />
         <Testimonial />
+        </div>
         <Footer></Footer>
         </div>
         

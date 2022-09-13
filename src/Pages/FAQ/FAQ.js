@@ -3,7 +3,7 @@ import './FAQ.css'
 
 const FAQ = () => {
     return (
-        <div className='faq-section'>
+        <div className='faq-section py-5'>
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">

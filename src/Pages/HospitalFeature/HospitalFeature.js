@@ -3,7 +3,7 @@ import './HospitalFeature.css'
 
 const HospitalFeature = () => {
     return (
-        <div className='hospital-feature my-5'>
+        <div className='hospital-feature py-5'>
             <div className="container">
                 <div className="row">
                 <div className="col-md-5">

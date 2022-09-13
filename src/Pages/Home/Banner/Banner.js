@@ -5,7 +5,7 @@ import CountUp from 'react-countup';
 import './Banner.css'
 const Banner = () => {
     return (
-        <div className='banner-section my-4'>
+        <div className='banner-section py-4'>
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">

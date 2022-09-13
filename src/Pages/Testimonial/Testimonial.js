@@ -2,7 +2,7 @@ import React from 'react';
 import './Testimonial.css';
 const Testimonial = () => {
     return (
-        <div className='review-section my-5'>
+        <div className='review-section py-5'>
             <p>Testimonial</p>
             <h3>What thay say?</h3>
            <div className="container">
