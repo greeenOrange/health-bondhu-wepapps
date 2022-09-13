@@ -1,5 +1,6 @@
 import React from 'react';
 import Experiance from '../Experiance/Experiance';
+import FAQ from '../FAQ/FAQ';
 import HospitalFeature from '../HospitalFeature/HospitalFeature';
 import Services from '../Services/Services';
 import Header from '../Shared/Header/Header';
@@ -17,6 +18,7 @@ const Home = () => {
         </div>
         <Experiance />
         <HospitalFeature />
+        <FAQ />
         </div>
         
     );
