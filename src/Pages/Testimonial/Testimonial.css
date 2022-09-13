@@ -1,0 +1,16 @@
+.review-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.review-section .review-sliders{
+    width: 600px;
+}
+.slider-content{
+    width: 664px;
+    height: 314px;
+}
+.slider-content img{
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,48 @@
+.footer-section{
+    text-align: left;
+    background: #E9EEF7
+}
+.footer-logo{
+    margin: .4rem 0;
+}
+.footer-section svg{
+    margin-right: .4rem;
+    padding: .5rem;
+    border-radius: 50%;
+    color: #fff;
+    background: #2D89FF;
+    transition: all ease-out .2s;
+}
+.footer-section svg:hover{
+    background: #fff;
+    color: #2D89FF;
+    cursor: pointer;
+}
+.footer-section p{
+    margin: 1rem 0;
+    font-size: 12px;
+}
+
+.quick-links-section{
+    text-align: left;
+}
+ul{
+    text-align: left;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: #1E1E1E;
+}
+.quick-links{
+    text-align: left;
+}
+.quick-links li{
+    text-align: left;
+}
+.quick-links li span{
+    text-align: left;
+    color: #2D89FF;
+}
